@@ -1,7 +1,6 @@
-# Hi, I'm Adama Florin 👋🏾
+# Hi, I'm Adama Florin FOUNGUES TOE👋🏾
 
 
-## ADAMA FLORIN FOUNGUES TOE
 ### software engineer, full stack developer & digital solution architect
 
 I'm a software engineer passionate about solving business challenges through elegant web and mobile solutions. Combining technical rigor, agility, and a strong product mindset, I design and develop applications that make an impact. Currently working at Société d'Energie et d'Eau du GABON, I lead software projects across financial, customer-facing, and technical departments.
