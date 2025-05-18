@@ -1,8 +1,5 @@
 # Hi, I'm Adama Florin 👋🏾
 
-<div align="center">
-  <img src="/api/placeholder/600/200" alt="Profile Banner">
-</div>
 
 ## ADAMA FLORIN FOUNGUES TOE
 ### software engineer, full stack developer & digital solution architect
