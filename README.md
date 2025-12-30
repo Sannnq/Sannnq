@@ -1,7 +1,7 @@
 # Hi, I'm Florin FOUNGUES
 
 
-### software engineer, full stack developer & digital solution architect
+### software engineer & AI enthusiast
 
 I'm a software engineer passionate about solving business challenges through elegant web and mobile solutions. Combining technical rigor, agility, and a strong product mindset, I design and develop applications that make an impact. Currently working at Société d'Energie et d'Eau du GABON, I lead software projects across financial, customer-facing, and technical departments.
 
