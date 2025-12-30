@@ -1,4 +1,4 @@
-# Hi, I'm Adama Florin FOUNGUES TOE👋🏾
+# Hi, I'm Florin FOUNGUES
 
 
 ### software engineer, full stack developer & digital solution architect
